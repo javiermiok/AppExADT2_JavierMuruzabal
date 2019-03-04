@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">APP Eventos</string>
+    <string name="tv_nevento_main">Nombre del evento:</string>
+    <string name="tv_nmun_main">Nombre del Municipio:</string>
+    <string name="tv_desc_main">Descripción:</string>
+    <string name="tv_fecha_main">Fecha:</string>
+    <string name="tv_hora_main">Hora:</string>
+
+    <string name="btn_eliminar_main">Eliminar</string>
+    <string name="btn_modificar_main">Modificar</string>
+    <string name="btn_consultar_main">Consultar por nombre</string>
+    <string name="btn_registrar_main">Registrar nuevo evento</string>
+
+    <string name="toast_error_campos">Todos los campos tienen que estar rellenos</string>
+    <string name="toast_error_no_mun">No se ha encontrado un municipio con ese nombre</string>
+    <string name="toast_error_insertar">Error al intentar insertar evento. Puede que ya exista un evento con ese nombre</string>
+    <string name="toast_insertar_exito">Se ha guardado con éxito el evento</string>
+    <string name="toast_error_no_nevento">Se requiere un nombre de evento</string>
+    <string name="toast_no_evento">No se ha encontrado un evento con ese nombre</string>
+    <string name="toast_error_modificar">Error al intentar modificar</string>
+    <string name="toast_modificar_exito">Se ha modificado con éxito</string>
+    <string name="toast_error_campos_nomod">No has modificado ningún campo</string>
+    <string name="toast_eliminar_error">Se ha producido un error al intentar eliminar</string>
+    <string name="toast_eliminar_exito">Se ha eliminado con éxito el evento</string>
+</resources>
